@@ -1,0 +1,58 @@
+button {
+     	width: 130px;
+     	height: 40px;
+     	color: purple;
+     	font-family:'Anton', sans-serif;
+     }
+
+
+   
+
+
+
+  font-family: 'Anton', sans-serif;
+     }
+
+     #content 
+     {background-position: 300px: }
+
+
+     html {
+  background-color: #ACA5A5;
+}
+
+body {
+  background-color: #CAA4E5;
+}
+
+#re {
+  margin-left: 30%;
+  margin-right: 30%;
+  padding: 10px;
+  border: black 2px solid;
+}
+
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+
+* {box-sizing: border-box;}
+
+}
+
+
+* {box-sizing: border-box;}
+
+#contenido {
+    position: relative;
+    width: 640px;
+    height: auto;
+    margin: 20px auto;
+    border: 12px solid #fff;
+    border-radius: 10px;
+    box-shadow: 1px 1px 5px rgba(50,50,50 0.5);
+}
