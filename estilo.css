@@ -1,12 +1,9 @@
 button {
      	width: 130px;
      	height: 40px;
-     	color: purple;
+     	color: black;
      	font-family:'Anton', sans-serif;
-     }
-
-
-   
+     } 
 
 
 
@@ -18,41 +15,19 @@ button {
 
 
      html {
-  background-color: #ACA5A5;
+background-color: #75a3a3;
 }
 
 body {
-  background-color: #CAA4E5;
+  background-color: #9fdfbf;
 }
 
 #re {
   margin-left: 30%;
   margin-right: 30%;
   padding: 10px;
-  border: black 2px solid;
+border-style: dotted;
+border-color: #75a3a3;
 }
 
 
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-
-
-* {box-sizing: border-box;}
-
-}
-
-
-* {box-sizing: border-box;}
-
-#contenido {
-    position: relative;
-    width: 640px;
-    height: auto;
-    margin: 20px auto;
-    border: 12px solid #fff;
-    border-radius: 10px;
-    box-shadow: 1px 1px 5px rgba(50,50,50 0.5);
-}
